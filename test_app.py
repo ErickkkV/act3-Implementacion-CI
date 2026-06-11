@@ -3,7 +3,7 @@ from app import areaTriangulo
 
 
 def test_area_correcta():
-    assert areaTriangulo(4, 5) == 20
+    assert areaTriangulo(4, 5) == 10
 
 
 def test_area_limite():
